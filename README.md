@@ -23,7 +23,7 @@
 
 
 
-![Radical Ed]([https://example.com/mygif.gif](https://i.pinimg.com/originals/72/0d/3d/720d3d464ffbadd23a75a320956caa08.gif))
+![Radical Ed](https://i.pinimg.com/originals/72/0d/3d/720d3d464ffbadd23a75a320956caa08.gif)
 <!--
 **lorenzom222/lorenzom222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
