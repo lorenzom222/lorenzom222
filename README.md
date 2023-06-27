@@ -1,7 +1,7 @@
 ### Hi there 👋
-<!--
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
--->
+
 ### Skills
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
@@ -23,9 +23,9 @@
 [![Zsh](https://img.shields.io/badge/Zsh-f15a24?style=for-the-badge)](https://ohmyz.sh)
 
 
+<!--
 
 ![Radical Ed](https://i.pinimg.com/originals/72/0d/3d/720d3d464ffbadd23a75a320956caa08.gif)
-<!--
 **lorenzom222/lorenzom222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
