@@ -22,9 +22,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
 
+![Image](https://steamuserimages-a.akamaihd.net/ugc/1848161512059955042/65CF00476D0550EAA5C36041D96FDB137F970B15/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+<!--
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-<!--
 
 ![Radical Ed](https://i.pinimg.com/originals/72/0d/3d/720d3d464ffbadd23a75a320956caa08.gif)
 **lorenzom222/lorenzom222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
