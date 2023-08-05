@@ -21,9 +21,9 @@
 ![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-Notebooks-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
-
+<center>
 ![Image](https://i.pinimg.com/originals/b0/37/ad/b037adead23abdfac4bca0b0de0c3955.gif)
-
+</center>
 <!--
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
