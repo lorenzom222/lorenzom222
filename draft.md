@@ -1,7 +1,7 @@
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGreen-atkinson&label=visitors&labelColor=%2337d67a&countColor=%23555555&style=flat)
- <img src="https://i.pinimg.com/originals/cf/23/d5/cf23d5c33ff1ad50cf49d02721b4b5e2.gif">
- 
-#
+<!-- 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Florenzonmendoza&label=visitors&labelColor=%2337d67a&countColor=%23555555&style=flat)
+ -->
+
 <div align='center'>
   <H3><img alt="mona-whisper" height="22.5" width="32.5" src="gifs/dino-crop.gif" style="position: relative; top: 3px;"/> Hey! I'm Lorenzo 👋🏽 <H3>
 </div>
@@ -10,12 +10,14 @@
 #
 A little more about me...  
 
-```javascript
-const johnAtkinson = {
-  pronouns: "they" | "them" | "theirs",
-  code: [Python, Java, C, HTML, CSS, Javascript],
-  tools: [PyCharm, IntelliJ, Git, React.js, Node.js],
-}
+```python
+class LorenzoMendoza {
+public:
+    vector<string> pronouns = {"he", "him", "his"};
+    vector<string> code = {"C++", "C", "Python", "Javascript", "Java", "Bash", "HTML"};
+    vector<string> tools = {"Linux_Unix", "VS_Studio_Code", "Git", "Docker", "Jupyter_Notebooks", "LaTeX"};
+
+};
 ```
 
 <div align="center">
