@@ -2,9 +2,10 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Florenzonmendoza&label=visitors&labelColor=%2337d67a&countColor=%23555555&style=flat)
  -->
 
-<div align='center'>
-  <H3><img alt="dino" height="22.5" width="32.5" src="gifs/dino-crop.gif" style="position: relative; top: 3px;"/> Hey! I'm Lorenzo 👋🏽 <H3>
+<div style="text-align: center;">
+  <h3><img alt="dino" height="22.5" width="32.5" src="gifs/dino-crop.gif" style="vertical-align: middle; max-width: 100%;"/> Hey! I'm Lorenzo 👋🏽 </h3>
 </div>
+
 
 
 #
