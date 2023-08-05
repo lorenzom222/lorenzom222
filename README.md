@@ -22,7 +22,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
 <center>
-  <img src="https://i.pinimg.com/originals/b0/37/ad/b037adead23abdfac4bca0b0de0c3955.gif" width="300" height="300">
+  <img src="https://i.pinimg.com/originals/b0/37/ad/b037adead23abdfac4bca0b0de0c3955.gif" width="500" height="300">
 </center>
 
 
