@@ -17,11 +17,9 @@ public:
     vector<string> code = {"C++", "C", "Python", "Javascript", "Java", "Bash", "HTML"};
     vector<string> tools = {"Linux_Unix", "VS_Studio_Code", "Git", "Docker", "Jupyter_Notebooks", "LaTeX"};
 private:
-    string nationality = "Chicano";
+    string id = "Chicano";
     string origin = "Texan";
-    int generation = 1;
-
-
+    int gen = 1;
 };
 ```
 
