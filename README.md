@@ -3,8 +3,9 @@
  -->
 
 <div style="text-align: center;">
-  <h3><img alt="dino" height="22.5" width="32.5" src="gifs/dino-crop.gif" style="vertical-align: middle; max-width: 100%;"/> Hey! I'm Lorenzo 👋🏽 </h3>
+  <h3><img alt="dino" height="22.5" width="32.5" src="gifs/dino-crop.gif" style="display: block; margin: 0 auto; max-width: 100%;"/> Hey! I'm Lorenzo 👋🏽 </h3>
 </div>
+
 
 
 
