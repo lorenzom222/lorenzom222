@@ -21,9 +21,9 @@
 ![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-Notebooks-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
-<!--
 
-![Image](https://steamuserimages-a.akamaihd.net/ugc/1848161512059955042/65CF00476D0550EAA5C36041D96FDB137F970B15/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+![Image]([https://steamuserimages-a.akamaihd.net/ugc/1848161512059955042/65CF00476D0550EAA5C36041D96FDB137F970B15/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false](https://i.pinimg.com/originals/b0/37/ad/b037adead23abdfac4bca0b0de0c3955.gif))
+<!--
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
