@@ -3,7 +3,7 @@
  
 #
 <div align='center'>
-  <H3><img alt="mona-whisper" height="40" width="40" src="https://github.githubassets.com/images/mona-whisper.gif"/>👋🏾Hey! I'm Lorenzo <H3>
+  <H3><img alt="mona-whisper" height="50" width="50" src="gifs/dino.gif"/>👋🏾Hey! I'm Lorenzo <H3>
 
 </div> 
 
