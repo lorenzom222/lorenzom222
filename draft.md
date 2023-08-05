@@ -3,7 +3,7 @@
  
 #
 <div align='center'>
-  <H3><img alt="mona-whisper" height="50" width="50" src="gifs/dino.gif"/>👋🏾Hey! I'm Lorenzo <H3>
+  <H3><img alt="mona-whisper" height="50" width="50" src="gifs/dino-crop.gif"/>👋🏾Hey! I'm Lorenzo <H3>
 
 </div> 
 
