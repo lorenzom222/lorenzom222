@@ -3,9 +3,9 @@
  
 #
 <div align='center'>
-  <H3><img alt="mona-whisper" height="50" width="50" src="gifs/dino-crop.gif"/>👋🏾Hey! I'm Lorenzo <H3>
+  <H3><img alt="mona-whisper" height="30" width="40" src="gifs/dino-crop.gif" style="position: relative; top: 3px;"/>👋🏾Hey! I'm Lorenzo <H3>
+</div>
 
-</div> 
 
 #
 A little more about me...  
