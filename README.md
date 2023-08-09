@@ -18,10 +18,6 @@ public:
     vector<string> pronouns = {"he", "him", "his"};
     vector<string> code = {"C++", "C", "Python", "Javascript", "Java", "Bash", "HTML"};
     vector<string> tools = {"Linux_Unix", "VS_Studio_Code", "Git", "Docker", "Jupyter_Notebooks", "LaTeX"};
-private:
-    string id = "Chicano";
-    string origin = "Texan";
-    int gen = 1;
 };
 ```
 
