@@ -37,19 +37,17 @@ public:
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzom222&layout=compact&langs_count=7&theme=merko&hide=jupyter%20notebook,makefile,cmake"/>
 
 
-<!--   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=lorenzom222&show_icons=true&theme=dark"/>
-   -->
+
   <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lorenzom222&theme=merko" alt="lorenzom222">
   <img height="180em" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lorenzom222&theme=merko" alt="lorenzom222"/>
  </a>
 </div>
-<!-- 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lorenzom222&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" alt="lorenzom222's github activity graph">
- -->
+
   
 #
 <div align = "center">
   <img src="https://i.pinimg.com/originals/bb/d8/5f/bbd85fa86d8dc8e3fc64d086f6641a5c.gif" width="900" height="550">
-
-
+  <br>
+  Artwork by <a href="https://www.patreon.com/waneella">waneella</a>
 </div>
+
