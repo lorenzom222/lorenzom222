@@ -3,7 +3,7 @@
  -->
 
 <div style="text-align: center;">
-  <h3><img alt="dino" height="22.5" width="32.5" src="gifs/dino-crop.gif" style="max-width: 100%; height: auto;"/> Hey! I'm Lorenzo 👋🏽 </h3>
+  <h3><img alt="dino" height="22.5" width="32.5" src="gifs/dino-crop.gif" style="height: auto;"/> Hey! I'm Lorenzo 👋🏽 </h3>
 </div>
 
 
