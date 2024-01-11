@@ -46,8 +46,9 @@ public:
   
 #
 <div align = "center">
-  <img src="https://i.pinimg.com/originals/bb/d8/5f/bbd85fa86d8dc8e3fc64d086f6641a5c.gif" width="900" height="550">
+  <img src="https://i.pinimg.com/originals/bb/d8/5f/bbd85fa86d8dc8e3fc64d086f6641a5c.gif" style="max-width: 100%; height: auto;">
   <br>
   Artwork by <a href="https://www.patreon.com/waneella">waneella</a>
 </div>
+
 
